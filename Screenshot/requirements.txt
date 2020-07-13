@@ -1,2 +1,0 @@
-for linux user
-sudo apt-get install scrot
