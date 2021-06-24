@@ -1,0 +1,15 @@
+704111 |Engineering Physics | 5.00 | Ten Point Scale | TH |70 |28 |30 |12 |-- |-- |100|0 |
+|Engineering Physics | 5.00 | Ten Point Scale | PR |-- |-- |-- |-- |25 |10 |25 |0 |
+704112 |Engineering Chemistry | 5.00 | Ten Point Scale | TH |70 |28 |30 |12 |-- |-- |100|0 |
+|Engineering Chemistry | 5.00 | Ten Point Scale | PR |-- |-- |-- |-- |25 |10 |25 |0 |
+704113 |Engineering Mathematics-I | 4.00 | Ten Point Scale | TH |70 |28 |30 |12 |-- |-- |100|0 |
+|Engineering Mathematics-I | 4.00 | Ten Point Scale | PR |-- |-- |-- |-- |25 |10 |25 |0 |
+704114 |Applied Mechanics | 5.00 | Ten Point Scale | TH |70 |28 |30 |12 |-- |-- |100|0 |
+|Applied Mechanics | 5.00 | Ten Point Scale | PR |-- |-- |-- |-- |25 |10 |25 |0 |
+704115 |Basic Electrical Engineering | 4.00 | Ten Point Scale | TH |70 |28 |30 |12 |-- |-- |100|0 |
+|Basic Electrical Engineering | 4.00 | Ten Point Scale | PR |-- |-- |-- |-- |25 |10 |25 |0 |
+704116 |Basic Mechanical Engineering | 4.00 | Ten Point Scale | TH |70 |28 |30 |12 |-- |-- |100|0 |
+|Basic Mechanical Engineering | 4.00 | Ten Point Scale | PR |-- |-- |-- |-- |25 |10 |25 |0 |
+704117 |Communication Skills | 2.00 | Ten Point Scale | TH |-- |-- |25 |10 |-- |-- |25 |0 |
+|Communication Skills | 2.00 | Ten Point Scale | PR |-- |-- |-- |-- |25 |10 |25 |0 |
+704118 |Workshop Practice | 1.00 | Ten Point Scale | PR |-- |-- |-- |-- |25 |10 |25 |0 |

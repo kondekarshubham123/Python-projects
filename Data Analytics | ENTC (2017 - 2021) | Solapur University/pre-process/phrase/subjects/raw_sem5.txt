@@ -1,0 +1,16 @@
+7047311 |Electro Magnetic Engg.& Radiating System| 5.00 | Ten Point Scale | TH |70 |28 |30 |12 |-- |-- |-- |-- |100|0 |
+|Electro Magnetic Engg.& Radiating System| 5.00 | Ten Point Scale | PR |-- |-- |-- |-- |25 |10 |-- |-- |25 |0 |
+7047312 |Principles of Digital Communication| 5.00 | Ten Point Scale | TH |70 |28 |30 |12 |-- |-- |-- |-- |100|0 |
+|Principles of Digital Communication| 5.00 | Ten Point Scale | PR |-- |-- |-- |-- |25 |10 |50 |20 |75 |0 |
+7047313 |Digital Signal Processing | 5.00 | Ten Point Scale | TH |70 |28 |30 |12 |-- |-- |-- |-- |100|0 |
+|Digital Signal Processing | 5.00 | Ten Point Scale | PR |-- |-- |-- |-- |25 |10 |25 |10 |50 |0 |
+7047314 |Microcontroller-I | 5.00 | Ten Point Scale | TH |70 |28 |30 |12 |-- |-- |-- |-- |100|0 |
+|Microcontroller-I | 5.00 | Ten Point Scale | PR |-- |-- |-- |-- |25 |10 |50 |20 |75 |0 |
+7047315 |Software Engineering & Project Management System| 3.00 | Ten Point Scale | TH |70 |28 |30 |12 |-- |-- |-- |-- |100|0 |
+7047316 |Electronics Software Lab-III | 2.00 | Ten Point Scale | PR |-- |-- |-- |-- |50 |20 |-- |-- |50 |0 |
+7043101 |Economics | 2.00 | Ten Point Scale | TH |50 |20 |-- |-- |-- |-- |-- |-- |50 |0 |
+7043102 |Intellectual Property Rights For Technology Development and| 2.00 | Ten Point Scale | TH |50 |20 |-- |-- |-- |-- |-- |-- |50 |0 |
+7043103 |Stress and Coping | 2.00 | Ten Point Scale | TH |50 |20 |-- |-- |-- |-- |-- |-- |50 |0 |
+7043104 |Introduction to Sociology | 2.00 | Ten Point Scale | TH |50 |20 |-- |-- |-- |-- |-- |-- |50 |0 |
+7043105 |Professional Ethics & Human Values | 2.00 | Ten Point Scale | TH |50 |20 |-- |-- |-- |-- |-- |-- |50 |0 |
+70401 |NPTEL Course | 2.00 | Ten Point Scale | TH |50 |20 |-- |-- |-- |-- |-- |-- |50 |0 |

@@ -1,0 +1,10 @@
+7047211 |Engineering Mathematics-III | 4.00 | Ten Point Scale | TH |70 |28 |30 |12 |25 |10 |-- |-- |125|0 |
+7047212 |Electronics Circuit Analysis and Design-I| 5.00 | Ten Point Scale | TH |70 |28 |30 |12 |-- |-- |-- |-- |100|0 |
+|Electronics Circuit Analysis and Design-I| 5.00 | Ten Point Scale | PR |-- |-- |-- |-- |25 |10 |50 |20 |75 |0 |
+7047213 |Network Theory & Analysis | 5.00 | Ten Point Scale | TH |70 |28 |30 |12 |-- |-- |-- |-- |100|0 |
+|Network Theory & Analysis | 5.00 | Ten Point Scale | PR |-- |-- |-- |-- |25 |10 |-- |-- |25 |0 |
+7047214 |Digital Techniques | 5.00 | Ten Point Scale | TH |70 |28 |30 |12 |-- |-- |-- |-- |100|0 |
+|Digital Techniques | 5.00 | Ten Point Scale | PR |-- |-- |-- |-- |25 |10 |50 |20 |75 |0 |
+7047215 |Analog Communication | 4.00 | Ten Point Scale | TH |70 |28 |30 |12 |-- |-- |-- |-- |100|0 |
+|Analog Communication | 4.00 | Ten Point Scale | PR |-- |-- |-- |-- |25 |10 |50 |20 |75 |0 |
+7047216 |Electronic Software Lab-I | 2.00 | Ten Point Scale | PR |-- |-- |-- |-- |50 |20 |-- |-- |50 |0 |
